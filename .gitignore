@@ -1,0 +1,6 @@
+*.sfd
+*.ttf
+*.bak
+*~
+__pycache__
+*.tmp
